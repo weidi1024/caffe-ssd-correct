@@ -1,4 +1,6 @@
-# 我在编译caffe-ssd过程中遇到一些的问题需要修改源码，这里是修改后的版本，在此做个记录，方便以后使用。weidi1024 20191126
+
+我在编译caffe-ssd过程中遇到一些的问题需要修改源码，这里是修改后的版本，在此做个记录，方便以后使用。weidi1024 20191126
+
 # SSD: Single Shot MultiBox Detector
 
 [![Build Status](https://travis-ci.org/weiliu89/caffe.svg?branch=ssd)](https://travis-ci.org/weiliu89/caffe)
